@@ -1,0 +1,1 @@
+Run this application and print out any quantity of prime numbers that you want
